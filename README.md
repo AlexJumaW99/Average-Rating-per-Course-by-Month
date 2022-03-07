@@ -4,6 +4,11 @@ The data is then manipulated to create a different 'Month' column - from the alr
 Afterwards the data is grouped by 'Month' and 'Course Name', and the mean rating for course each month is found. 
 A chart is then created to visualize this using Justpy and Highcharts. 
 
+
+# Project Demo  
+
+https://user-images.githubusercontent.com/50864725/157117920-3b03430a-3548-408f-8894-253004cd3b29.mp4
+
 # What I Learnt 
 1. How to use justpy to utilize JS front-end frameworks 
 2. How to create a webpage using the Quasar framework
